@@ -1,5 +1,5 @@
 <h1>JavaScript_Quote-Generator_01</h1>
-<a href="https://shahramdbi.github.io/JavaScript_Quote-Generator_01/" target="_blank">JavaScript_Quote-Generator_01</a>
+<a href="https://shahramdbi.github.io/JavaScript_Quote-Generator_01/" target="_blank" >JavaScript_Quote-Generator_01</a>
 <br>
 <h3>HTML - CSS - JAVASCRIPT - API - LOADING - GITHUB</h3>
 <p>#################################### GITHUB COMMANDS ################################################</p>
