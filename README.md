@@ -1,5 +1,6 @@
-<h1>JavaScript_PR_01</h1>
+<h1>JavaScript_Quote-Generator_01</h1>
 <br>
+<h3>HTML - CSS - JAVASCRIPT - GITHUB</h3>
 ##########################################################################################
 <br>
 <h3>GIthub Command</h3>
