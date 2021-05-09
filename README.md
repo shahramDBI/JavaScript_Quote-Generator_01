@@ -1,10 +1,8 @@
 <h1>JavaScript_Quote-Generator_01</h1>
-<a>https://shahramdbi.github.io/JavaScript_Quote-Generator_01/</a>
+<a href="https://shahramdbi.github.io/JavaScript_Quote-Generator_01/">JavaScript_Quote-Generator_01</a>
 <br>
 <h3>HTML - CSS - JAVASCRIPT - API - LOADING - GITHUB</h3>
-<p>#################################### GITHUB ################################################</p>
-<br>
-<h3>GIthub Command</h3>
+<p>#################################### GITHUB COMMANDS ################################################</p>
 <br>
 <p>\JavaScript_PR_01>git init</p>
 <br>
