@@ -1,10 +1,9 @@
-<p>################################################ About This Code ################################################</p>
+<p>######################### About This Code #########################</p>
 <h1>JavaScript_Quote-Generator_01</h1>
 <br>
 <h3>HTML - CSS - JAVASCRIPT - API - LOADING</h3>
-<h3> Link </h3>
-<a href="https://shahramdbi.github.io/JavaScript_Quote-Generator_01/" target="_blank" >JavaScript_Quote-Generator_01</a>
+Link => <a href="https://shahramdbi.github.io/JavaScript_Quote-Generator_01/" target="_blank" >JavaScript_Quote-Generator_01</a>
 <br>
-<p>##################################################################################################################</p>
+<p>####################################################################</p>
 
 
